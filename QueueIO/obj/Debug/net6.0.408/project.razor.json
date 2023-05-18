@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\email\\Desktop\\rabbitMQ_projects\\QueueIO\\obj\\Debug\\net6.0.408\\project.razor.json",
+  "FilePath": "c:\\Users\\email\\Desktop\\rabbitMQ_projects\\QueueIO\\RabbitMQApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "API_Sender",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}

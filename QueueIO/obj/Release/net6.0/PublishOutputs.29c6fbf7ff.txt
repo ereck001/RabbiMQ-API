@@ -1,0 +1,10 @@
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQApi.exe
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\appsettings.Development.json
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\appsettings.json
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQApi.dll
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQApi.deps.json
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQApi.runtimeconfig.json
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQApi.pdb
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\Newtonsoft.Json.dll
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\RabbitMQ.Client.dll
+C:\Users\email\Desktop\rabbitMQ_projects\QueueIO\out\System.Threading.Channels.dll
