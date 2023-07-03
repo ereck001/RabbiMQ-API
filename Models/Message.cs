@@ -8,8 +8,16 @@ public class Message
 
     public static Message FromJson(string json)
     {
-        return Newtonsoft
+        var message = Newtonsoft
             .Json.JsonConvert
             .DeserializeObject<Message>(json);
+
+        if (message == null)
+        {
+            message = new();
+            message.Body = "mensagem vazía";
+        }    
+
+        return  message;
     }
 }

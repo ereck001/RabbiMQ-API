@@ -14,13 +14,9 @@ public class HomeController : ControllerBase
         var message = consumer.GetMessage(queue);
 
         if (message.Id != null)
-        {
-            return Ok(message.Body);
-        }
+            return Ok(message.Body);        
         else
-        {
-            return Ok("Sem mensagens");
-        }
+            return Ok("Sem mensagens");        
     }
     [HttpPost("ToSend")]
     public IActionResult ToSend(
